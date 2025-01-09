@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Demo',
       theme: ThemeData(
         // Leraning Flutter
-        //Thank you
+        //Thank you git main
         // This is the theme of your application.
         //
         // TRY THIS: Try running your application with "flutter run". You'll see
