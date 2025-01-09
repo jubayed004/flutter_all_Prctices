@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Demo',
       theme: ThemeData(
 
-        // g itLearning Flutter mini
+        // some change in master
         //Thank you okayed
 
         // Learning Flutter
