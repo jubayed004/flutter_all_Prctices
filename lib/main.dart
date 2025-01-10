@@ -71,6 +71,7 @@ class HomeScreen extends StatelessWidget {
                Icon(Icons.close,size: 80,color: Colors.greenAccent,),
                
                ClipOval(
+                 clipBehavior: Clip.antiAlias,
                    child: SizedBox(
                        child: Image.network("https://gratisography.com/wp-content/uploads/2024/10/gratisography-cool-cat-800x525.jpg"))),
                SizedBox(
