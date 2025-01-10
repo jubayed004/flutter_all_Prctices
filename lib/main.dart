@@ -72,11 +72,10 @@ class HomeScreen extends StatelessWidget {
                
                ClipOval(
                    child: SizedBox(
-
                        child: Image.network("https://gratisography.com/wp-content/uploads/2024/10/gratisography-cool-cat-800x525.jpg"))),
                SizedBox(
-                 height: 300,
-                   width: 600,
+                 height: 100,
+                   width: 200,
                    child: ClipRRect(
                      borderRadius: BorderRadius.circular(40),
                        child: Image.asset("assets/images.jpg",
